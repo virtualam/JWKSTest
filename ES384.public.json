@@ -1,0 +1,13 @@
+{
+  "keys": [
+    {
+      "kty": "EC",
+      "use": "sig",
+      "crv": "P-384",
+      "kid": "DQfVCC2Tc4OUi-hWS2qYPYc6bMdl5W2MsFKEgB5w1PA",
+      "x": "Uf0uIAEJXxh2SCqkvatpeHtKj3PUpeTxl6d-8IVZ-xwsny3cbojEm_YPOZ1sD0UP",
+      "y": "lvNVJF7dHbRtTLJX0W-A84SE6vpaYbd_wDo79krgMluFranIwiH-xUFXCn2qJzZd",
+      "alg": "ES384"
+    }
+  ]
+}
